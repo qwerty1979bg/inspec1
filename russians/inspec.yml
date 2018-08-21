@@ -7,4 +7,4 @@ license: MIT
 summary: A sample InSpec Compliance Profile
 version: 0.0.1
 supports:
-  - os-family: linux
+  - os-family: unix
