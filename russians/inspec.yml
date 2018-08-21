@@ -1,0 +1,10 @@
+name: russians
+title: InSpec will be keeping the Russians in check
+maintainer: No One
+copyright: Public domain
+copyright_email: example@example.org
+license: MIT
+summary: A sample InSpec Compliance Profile
+version: 0.0.1
+supports:
+  - os-family: linux
